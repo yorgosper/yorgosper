@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yorgosper aka Yorgos
+- 👋 Hi, I’m Yorgos
 - 👀 I’m interested in js
 - 🌱 I’m currently learning all
 - 💞️ I’m looking to collaborate on everything
