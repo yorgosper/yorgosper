@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning all
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me yorgos@perlego.com
-
-- 🐳 Walking Web squad
+- 🧟 Walking Web / Librady Squad
 - 🙈 QA Engineer
 
 <!---
